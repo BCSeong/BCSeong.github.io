@@ -32,7 +32,7 @@ cv:
         score: "4.12 / 4.5"
         courses: "Extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution"
         highlights:
-          - Advisor: Prof. Chulmin Joo, Computational Imaging & Instrumentation Lab (CII)
+          - "Advisor: Prof. Chulmin Joo, Computational Imaging & Instrumentation Lab (CII)"
 
       - institution: Hongik University
         location: Seoul, Republic of Korea
@@ -70,26 +70,6 @@ cv:
           - "E2E-BPF microscope: jointly optimized binary phase filter and deconvolution network; 15.5× extended DoF (Light: Science & Applications, 2023)"
           - "Untrained deep learning-based differential phase-contrast microscopy (Optics Letters, 2023)"
           - "Light-sheet fluorescence microscopy, topology optimization for phase filters, OCT-based film inspection"
-
-    Awards:
-      - title: Excellence Thesis Fellowship
-        date: 2022
-        awarder: Yonsei University
-      - title: Excellence Award, Spring Academic Conference
-        date: 2021
-        awarder: Yonsei University
-      - title: Brain Korea 21 Scholarship / Academy Research Fellowship
-        date: 2018–2022
-        awarder: National Research Foundation of Korea
-      - title: RWTH Aachen – Hongik International Exchange Scholarship
-        date: 2017
-        awarder: Hongik University
-      - title: Undergraduate Academic Research Fellowship
-        date: 2016–2017
-        awarder: National Research Foundation of Korea
-      - title: Merit-Based Undergraduate Scholarship
-        date: 2014–2017
-        awarder: Hongik University
 
     Publications:
       - title: "E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution"
