@@ -14,9 +14,10 @@ profile:
     <p>Seoul, Republic of Korea</p>
     <p>+82-10-4999-2724</p>
     <p>bc.seong.opt@gmail.com</p>
+    <p><a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.linkedin.com/in/baekcheon-seong-574211257/" target="_blank" rel="noopener">LinkedIn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # no social/redirect icons at the bottom
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,6 +27,8 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" rel="noopener">Google Scholar</a> · <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener">Download CV</a>
 
 I am an optical and computational imaging engineer with a Ph.D. in Mechanical Engineering (Yonsei University, 2023) from the [Computational Imaging & Instrumentation Lab (CII)](https://cii-yonsei.com). I am currently an Optical Engineer and Team Manager at **Koh Young Technology**, leading R&D on computational imaging and interferometry-based inspection for semiconductor and industrial applications. I collaborate with AIT (Austria) and Fraunhofer IPM (Germany).
 
