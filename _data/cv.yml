@@ -50,8 +50,8 @@ cv:
         end_date: present
         summary: Lead R&D on computational imaging and interferometry-based inspection for semiconductor and industrial applications. Collaborate with AIT (Austria) and Fraunhofer IPM (Germany).
         highlights:
-          - Inline Photometry-Stereo Inspection (AOI-AXIA): Led development of computational imaging system; built depth reconstruction and calibration pipelines (Python); managing joint research with AIT
-          - Interferometry-Based Inspection (ZenStar): Contributed to synthetic-wavelength holography imaging; optimized phase-unwrapping and noise-handling algorithms; joint research with Fraunhofer IPM
+          - "Inline Photometry-Stereo Inspection (AOI-AXIA): Led development of computational imaging system; built depth reconstruction and calibration pipelines (Python); managing joint research with AIT"
+          - "Interferometry-Based Inspection (ZenStar): Contributed to synthetic-wavelength holography imaging; optimized phase-unwrapping and noise-handling algorithms; joint research with Fraunhofer IPM"
 
       - company: Yonsei University, Department of Mechanical Engineering
         position: Part-time Lecturer
@@ -67,9 +67,9 @@ cv:
         end_date: 2023-08
         summary: Ph.D. research under Prof. Chulmin Joo. Depth-of-field extension microscopy, computational imaging, Fourier ptychography, OCT, wavefront coding. Industry-funded projects (Koh Young, AUROUS, KIAT, KMDF, Hyundai NGV).
         highlights:
-          - E2E-BPF microscope: jointly optimized binary phase filter and deconvolution network; 15.5× extended DoF (Light: Science & Applications, 2023)
-          - Untrained deep learning-based differential phase-contrast microscopy (Optics Letters, 2023)
-          - Light-sheet fluorescence microscopy, topology optimization for phase filters, OCT-based film inspection
+          - "E2E-BPF microscope: jointly optimized binary phase filter and deconvolution network; 15.5× extended DoF (Light: Science & Applications, 2023)"
+          - "Untrained deep learning-based differential phase-contrast microscopy (Optics Letters, 2023)"
+          - "Light-sheet fluorescence microscopy, topology optimization for phase filters, OCT-based film inspection"
 
     Awards:
       - title: Excellence Thesis Fellowship
@@ -95,7 +95,7 @@ cv:
       - title: "E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution"
         authors:
           - "Baekcheon Seong, Woovin Kim, Younghun Kim, Jong-Seok Lee, Jeonghoon Yoo, Chulmin Joo"
-        publisher: Light: Science & Applications
+        publisher: "Light: Science & Applications"
         releaseDate: 2023
         url: https://doi.org/10.1038/s41377-023-01300-5
         summary: Jointly optimized binary phase filter and deconvolution network for 15.5× extended DoF imaging.
