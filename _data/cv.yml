@@ -76,20 +76,20 @@ cv:
         authors:
           - "Baekcheon Seong, Woovin Kim, Younghun Kim, Jong-Seok Lee, Jeonghoon Yoo, Chulmin Joo"
         publisher: "Light: Science & Applications"
-        releaseDate: 2023
+        releaseDate: "2023"
         url: https://doi.org/10.1038/s41377-023-01300-5
         summary: Jointly optimized binary phase filter and deconvolution network for 15.5× extended DoF imaging.
       - title: "Untrained deep learning-based differential phase-contrast microscopy"
         authors:
           - "Baekcheon Seong, Ingyoung Kim, Taegyun Moon, Malith Ranathunga, Daesuk Kim, Chulmin Joo"
         publisher: Optics Letters
-        releaseDate: 2023
+        releaseDate: "2023"
         url: https://doi.org/10.1364/OL.493391
       - title: "Light sheet fluorescence microscopy using axi-symmetric binary phase filters"
         authors:
           - "Baekcheon Seong, Suho Ryu, Chan-wool Lee, Min Yong Ahn, Woo Taek Kim, Kwang-Min Choe, Chulmin Joo"
         publisher: Biomedical Optics Express
-        releaseDate: 2020
+        releaseDate: "2020"
         url: https://doi.org/10.1364/BOE.394841
 
     Patents:
