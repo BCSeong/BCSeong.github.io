@@ -444,17 +444,6 @@ nav[data-toggle="toc"] {
   z-index: 999;
 }
 
-/* Zoom view: show image at original size (no resize), allow scroll when larger than viewport */
-.medium-zoom-overlay {
-  overflow: auto;
-}
-.medium-zoom-image--opened {
-  max-width: none !important;
-  width: auto !important;
-  height: auto !important;
-  object-fit: none;
-}
-
 #toc-sidebar {
   z-index: 1;
 }
