@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>Seoul, Republic of Korea</p>
     <p>+82-10-4999-2724</p>
-    <p>bowow0310@gmail.com</p>
+    <p>bc.seong.opt@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
