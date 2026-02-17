@@ -66,5 +66,3 @@ I have contributed to tomographic and 3D imaging methods for biological and indu
 
 - Seokgyu Han, Ingyoung Kim, Baekcheon Seong, Woovin Kim, Hongseong Kim, Sein Kim, Chulmin Joo, Sungsu Park. **Dual-parameter tomographic imaging of attenuation and backscattering coefficients for quantitative evaluation of immune cell-mediated cytotoxicity in tumor spheroids.** _Theranostics_, 15(18):9399, 2025. [Link](https://doi.org/10.7150/thno.118722)
 - Runjia Han, Juho Lee, Baekcheon Seong, Ryung Shin, Donghyun Kim, Changsu Park, Jiseok Lim, Chulmin Joo, Shinill Kang. **Direct replication of a glass micro Fresnel zone plate array by laser irradiation using an infrared transmissive mold.** _Optics_ _Express_, 28(12):17468–17480, 2020. [Link](https://doi.org/10.1364/OE.387213)
-
-
