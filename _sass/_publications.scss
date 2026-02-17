@@ -39,9 +39,10 @@
     li {
       margin-bottom: 1rem;
 
+      /* Paper thumbnail: use originals from assets/publication_preview/ (no imagemagick); display up to column width */
       .preview {
         display: inline-block;
-        max-width: 400px;
+        max-width: 100%;
         width: 100%;
         height: auto;
       }

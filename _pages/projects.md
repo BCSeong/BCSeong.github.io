@@ -9,9 +9,17 @@ nav_order: 2
 
 <span id="section1"></span>
 
-# Computational Optics and Imaging
+<p align="center"><strong>Computational Optics and Imaging</strong></p>
+
+---
 
 My research centers on optical system design, calibration, and integration for inspection and metrology—from microscale (computational microscopy) to industrial scale (inline inspection). I work on (1) designing and optimizing phase-based optics (binary phase filters, wavefront coding), (2) developing reconstruction and calibration algorithms for interferometric and lens-based imaging, and (3) applying these to high-throughput semiconductor and industrial inspection. My Ph.D. focused on extended depth-of-field microscopy using learning-based binary phase filters and image deconvolution at the [Computational Imaging & Instrumentation Lab (CII)](https://cii-yonsei.com), Yonsei University. I now lead R&D at [Koh Young Technology](https://kohyoung.com/en/) on computational imaging and interferometry-based inspection, with international collaboration (AIT, Fraunhofer IPM). Selected research themes and relevant publications are summarized below.
+
+---
+
+## Industrial Inspection and Metrology (Koh Young Technology)
+
+At [Koh Young Technology](https://kohyoung.com/en/), I lead R&D on computational imaging and interferometry-based inspection for semiconductor and industrial applications. Current work includes inline photometry-stereo inspection (AOI-AXIA) with depth reconstruction and calibration pipelines, and interferometry-based inspection (ZenStar) with synthetic-wavelength holography and phase-unwrapping algorithms, in collaboration with the Austrian Institute of Technology (AIT) and Fraunhofer IPM. This work is oriented toward robust, high-throughput solutions rather than traditional academic publication; relevant patents and product documentation are available upon request.
 
 ---
 
@@ -23,6 +31,8 @@ Extending the depth of field (DoF) of optical systems is essential for 3D inspec
 
 - Baekcheon Seong, Woovin Kim, Younghun Kim, Jong-Seok Lee, Jeonghoon Yoo, Chulmin Joo. **E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution.** _Light_: Science & _Applications_, 12(1):269, 2023. [Link](https://doi.org/10.1038/s41377-023-01300-5)
 - Stephen W.K. Roper, Suho Ryu, Baekcheon Seong, Chulmin Joo, Il Yong Kim. **A topology optimization implementation for depth-of-focus extension of binary phase filters.** _Structural_ and Multidisciplinary _Optimization_, 62(5):2731–2748, 2020. [Link](https://doi.org/10.1007/s00158-020-02611-6)
+
+{% include figure.liquid path="assets/project_figure/e2e-bpf-9.png" class="img-fluid rounded z-depth-1" alt="E2E-BPF microscopy" %}
 
 ---
 
@@ -57,8 +67,4 @@ I have contributed to tomographic and 3D imaging methods for biological and indu
 - Seokgyu Han, Ingyoung Kim, Baekcheon Seong, Woovin Kim, Hongseong Kim, Sein Kim, Chulmin Joo, Sungsu Park. **Dual-parameter tomographic imaging of attenuation and backscattering coefficients for quantitative evaluation of immune cell-mediated cytotoxicity in tumor spheroids.** _Theranostics_, 15(18):9399, 2025. [Link](https://doi.org/10.7150/thno.118722)
 - Runjia Han, Juho Lee, Baekcheon Seong, Ryung Shin, Donghyun Kim, Changsu Park, Jiseok Lim, Chulmin Joo, Shinill Kang. **Direct replication of a glass micro Fresnel zone plate array by laser irradiation using an infrared transmissive mold.** _Optics_ _Express_, 28(12):17468–17480, 2020. [Link](https://doi.org/10.1364/OE.387213)
 
----
 
-## Industrial Inspection and Metrology (Koh Young Technology)
-
-At [Koh Young Technology](https://kohyoung.com/en/), I lead R&D on computational imaging and interferometry-based inspection for semiconductor and industrial applications. Current work includes inline photometry-stereo inspection (AOI-AXIA) with depth reconstruction and calibration pipelines, and interferometry-based inspection (ZenStar) with synthetic-wavelength holography and phase-unwrapping algorithms, in collaboration with the Austrian Institute of Technology (AIT) and Fraunhofer IPM. This work is oriented toward robust, high-throughput solutions rather than traditional academic publication; relevant patents and product documentation are available upon request.
