@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "Selected research and industry projects.",
+          description: "Computational optics and imaging — from microscopy to industrial inspection.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
