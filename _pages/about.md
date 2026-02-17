@@ -8,7 +8,7 @@ subtitle: Optical & computational imaging · Ph.D. (Yonsei) · Koh Young Technol
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Seoul, Republic of Korea</p>
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -31,4 +31,4 @@ I am an optical and computational imaging engineer with a Ph.D. in Mechanical En
 
 My research interests are in computational optics and imaging: optical system design, calibration, and integration for inspection and metrology. I have hands-on experience in interferometric imaging (digital holography, OCT, white-light interferometry), wavefront coding, structured light encoding, and image reconstruction. I aim to translate advanced optical concepts into robust solutions for high-throughput semiconductor and industrial inspection.
 
-[Publications](/publications/) · [News](/news/) · [CV](/cv/)
+[Publications](/publications/) · [CV](/cv/)
