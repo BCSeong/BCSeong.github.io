@@ -117,7 +117,8 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          {% if site.search_enabled %}
+          {% comment %} Search disabled: set search_enabled: true in _config.yml to show {% endcomment %}
+          {% if false and site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
