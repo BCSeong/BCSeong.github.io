@@ -21,8 +21,8 @@ Extending the depth of field (DoF) of optical systems is essential for 3D inspec
 
 #### Relevant publications
 
-- Baekcheon Seong, Woovin Kim, Younghun Kim, Jong-Seok Lee, Jeonghoon Yoo, Chulmin Joo. **E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution.** *Light: Science & Applications*, 12(1):269, 2023. [Link](https://doi.org/10.1038/s41377-023-01300-5)
-- Stephen W.K. Roper, Suho Ryu, Baekcheon Seong, Chulmin Joo, Il Yong Kim. **A topology optimization implementation for depth-of-focus extension of binary phase filters.** *Structural and Multidisciplinary Optimization*, 62(5):2731–2748, 2020. [Link](https://doi.org/10.1007/s00158-020-02611-6)
+- Baekcheon Seong, Woovin Kim, Younghun Kim, Jong-Seok Lee, Jeonghoon Yoo, Chulmin Joo. **E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution.** _Light_: Science & _Applications_, 12(1):269, 2023. [Link](https://doi.org/10.1038/s41377-023-01300-5)
+- Stephen W.K. Roper, Suho Ryu, Baekcheon Seong, Chulmin Joo, Il Yong Kim. **A topology optimization implementation for depth-of-focus extension of binary phase filters.** _Structural_ and Multidisciplinary _Optimization_, 62(5):2731–2748, 2020. [Link](https://doi.org/10.1007/s00158-020-02611-6)
 
 ---
 
@@ -32,8 +32,8 @@ Phase contains critical information in transparent and weakly scattering samples
 
 #### Relevant publications
 
-- Baekcheon Seong, Ingyoung Kim, Taegyun Moon, Malith Ranathunga, Daesuk Kim, Chulmin Joo. **Untrained deep learning-based differential phase-contrast microscopy.** *Optics Letters*, 48(13):3607–3610, 2023. [Link](https://doi.org/10.1364/OL.493391)
-- Seungri Song, Jeongsoo Kim, Taegyun Moon, Baekcheon Seong, Woovin Kim, Chang-Hyuk Yoo, Jun-Kyu Choi, Chulmin Joo. **Polarization-sensitive intensity diffraction tomography.** *Light: Science & Applications*, 12(1):124, 2023. [Link](https://doi.org/10.1038/s41377-023-01151-0)
+- Baekcheon Seong, Ingyoung Kim, Taegyun Moon, Malith Ranathunga, Daesuk Kim, Chulmin Joo. **Untrained deep learning-based differential phase-contrast microscopy.** _Optics Letters_, 48(13):3607–3610, 2023. [Link](https://doi.org/10.1364/OL.493391)
+- Seungri Song, Jeongsoo Kim, Taegyun Moon, Baekcheon Seong, Woovin Kim, Chang-Hyuk Yoo, Jun-Kyu Choi, Chulmin Joo. **Polarization-sensitive intensity diffraction tomography.** _Light_: Science & _Applications_, 12(1):124, 2023. [Link](https://doi.org/10.1038/s41377-023-01151-0)
 
 ---
 
@@ -43,8 +43,8 @@ Light sheet fluorescence microscopy enables fast, low-phototoxicity 3D imaging. 
 
 #### Relevant publications
 
-- Suho Ryu, Baekcheon Seong, Chan-wool Lee, Min Yong Ahn, Woo Taek Kim, Kwang-Min Choe, Chulmin Joo. **Light sheet fluorescence microscopy using axi-symmetric binary phase filters.** *Biomedical Optics Express*, 11(7):3936–3951, 2020. [Link](https://doi.org/10.1364/BOE.394841)
-- Jieun Yun, Jungbin Lee, Seonghan Kim, Baekcheon Seong, Younghun Kim, Wan Jae Choi, Chang Ho Yoon, Chulmin Joo, Ki Hean Kim. **Oblique Light Sheet Fluorescence Microscopy with Surface Tracking for High-speed Large-area Imaging of Conjunctival Goblet Cells.** *IEEE Transactions on Medical Imaging*, 2025. [Link](https://doi.org/10.1109/TMI.2025.3605718)
+- Suho Ryu, Baekcheon Seong, Chan-wool Lee, Min Yong Ahn, Woo Taek Kim, Kwang-Min Choe, Chulmin Joo. **Light sheet fluorescence microscopy using axi-symmetric binary phase filters.** _Biomedical_ Optics _Express_, 11(7):3936–3951, 2020. [Link](https://doi.org/10.1364/BOE.394841)
+- Jieun Yun, Jungbin Lee, Seonghan Kim, Baekcheon Seong, Younghun Kim, Wan Jae Choi, Chang Ho Yoon, Chulmin Joo, Ki Hean Kim. **Oblique Light Sheet Fluorescence Microscopy with Surface Tracking for High-speed Large-area Imaging of Conjunctival Goblet Cells.** _IEEE_ Transactions on Medical _Imaging_, 2025. [Link](https://doi.org/10.1109/TMI.2025.3605718)
 
 ---
 
@@ -54,8 +54,8 @@ I have contributed to tomographic and 3D imaging methods for biological and indu
 
 #### Relevant publications
 
-- Seokgyu Han, Ingyoung Kim, Baekcheon Seong, Woovin Kim, Hongseong Kim, Sein Kim, Chulmin Joo, Sungsu Park. **Dual-parameter tomographic imaging of attenuation and backscattering coefficients for quantitative evaluation of immune cell-mediated cytotoxicity in tumor spheroids.** *Theranostics*, 15(18):9399, 2025. [Link](https://doi.org/10.7150/thno.118722)
-- Runjia Han, Juho Lee, Baekcheon Seong, Ryung Shin, Donghyun Kim, Changsu Park, Jiseok Lim, Chulmin Joo, Shinill Kang. **Direct replication of a glass micro Fresnel zone plate array by laser irradiation using an infrared transmissive mold.** *Optics Express*, 28(12):17468–17480, 2020. [Link](https://doi.org/10.1364/OE.387213)
+- Seokgyu Han, Ingyoung Kim, Baekcheon Seong, Woovin Kim, Hongseong Kim, Sein Kim, Chulmin Joo, Sungsu Park. **Dual-parameter tomographic imaging of attenuation and backscattering coefficients for quantitative evaluation of immune cell-mediated cytotoxicity in tumor spheroids.** _Theranostics_, 15(18):9399, 2025. [Link](https://doi.org/10.7150/thno.118722)
+- Runjia Han, Juho Lee, Baekcheon Seong, Ryung Shin, Donghyun Kim, Changsu Park, Jiseok Lim, Chulmin Joo, Shinill Kang. **Direct replication of a glass micro Fresnel zone plate array by laser irradiation using an infrared transmissive mold.** _Optics_ _Express_, 28(12):17468–17480, 2020. [Link](https://doi.org/10.1364/OE.387213)
 
 ---
 
