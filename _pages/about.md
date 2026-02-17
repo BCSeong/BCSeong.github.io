@@ -28,8 +28,8 @@ latest_posts:
   enabled: false
 ---
 
-<a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" rel="noopener"><Google Scholar></a> · <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener"><Download CV></a> · [CV](/cv/)
-
+<a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" rel="noopener"><Google Scholar></a> · <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener"><Download CV></a> 
+[CV](/cv/)
 
 I am currently an Optical Engineer and Optical Engineering Team Manager at [Koh Young Technology](https://kohyoung.com/en/) (Yongin, Republic of Korea), where I lead R&D on computational imaging and interferometry-based inspection for semiconductor and industrial applications. I collaborate with international research institutes including the Austrian Institute of Technology (AIT) and Fraunhofer IPM (Germany). Previously, I completed my Ph.D. in Mechanical Engineering at Yonsei University (2023), advised by Prof. Chulmin Joo at the [Computational Imaging & Instrumentation Lab (CII)](https://cii-yonsei.com). My dissertation focused on extended depth-of-field microscopy using learning-based binary phase filters and image deconvolution. I have been honored with the Excellence Thesis Fellowship (Yonsei University, 2022), Brain Korea 21 Scholarship and Academy Research Fellowship (NRF Korea, 2018–2022).
 
