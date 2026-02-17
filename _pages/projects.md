@@ -32,7 +32,7 @@ Extending the depth of field (DoF) of optical systems is essential for 3D inspec
 - Baekcheon Seong, Woovin Kim, Younghun Kim, Jong-Seok Lee, Jeonghoon Yoo, Chulmin Joo. **E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution.** _Light_: Science & _Applications_, 12(1):269, 2023. [Link](https://doi.org/10.1038/s41377-023-01300-5)
 - Stephen W.K. Roper, Suho Ryu, Baekcheon Seong, Chulmin Joo, Il Yong Kim. **A topology optimization implementation for depth-of-focus extension of binary phase filters.** _Structural_ and Multidisciplinary _Optimization_, 62(5):2731–2748, 2020. [Link](https://doi.org/10.1007/s00158-020-02611-6)
 
-{% include figure.liquid path="assets/project_figure/e2e-bpf-9.png" class="img-fluid rounded z-depth-1" alt="E2E-BPF microscopy" %}
+{% include figure.liquid path="assets/project_figure/e2e-bpf-9.png" class="img-fluid rounded z-depth-1" alt="E2E-BPF microscopy" avoid_scaling=true %}
 
 ---
 
