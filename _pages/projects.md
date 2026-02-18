@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 <!-- Professional Summary -->
+
 ### Bridging Theoretical Innovation and Industrial Reality
 
 I am an Optical and Computational Imaging Engineer dedicated to solving complex visibility problems through the fusion of **Physics** and **Artificial Intelligence**. With a Ph.D. in Mechanical Engineering and experience as a Lead Researcher at Koh Young Technology, I possess a unique **"T-shaped" profile**: deep theoretical expertise in **Physics-Informed Deep Learning** backed by the broad practical ability to lead **full-cycle product development**.
@@ -52,7 +53,8 @@ Leveraging my academic background in **Pupil Engineering**, I led a project to o
 I successfully transferred the post-processing algorithms into the **Camera FPGA**, enabling real-time Depth-of-Field extension with zero additional computational load on the host PC. I directly managed the collaboration with FPGA vendors to achieve this integration. Furthermore, I addressed a critical side effect of pupil engineering—artifacts caused by specular reflection. I devised and fabricated a **novel phase plate** design that suppresses these artifacts while preserving the extended depth of field, proving that advanced optical theory can be robustly applied to reflective industrial surfaces.
 
 **Relevant Publications & Patents:**
-*   `US 20250207912 A1`: Apparatus for Three-Dimensional Shape Measurement (Patent Application)
+
+- `US 20250207912 A1`: Apparatus for Three-Dimensional Shape Measurement (Patent Application)
 
 <br>
 
@@ -81,9 +83,10 @@ My academic research centers on breaking the fundamental trade-offs in optics—
 My signature work, the **E2E-BPF Microscope**, utilized an **end-to-end deep learning** framework to design a Binary Phase Filter (BPF) that creates a specific point spread function (PSF) ideally suited for DL-based restoration. This data-driven approach extended the DoF by six times, a feat impossible with conventional design methods. I also explored **Untrained Neural Networks**, proving that physics-guided algorithms can solve complex phase retrieval problems without the need for massive training datasets.
 
 **Relevant Publications & Patents:**
-*   `seong2023e2e`: **E2E-BPF Microscope** (Light: Science & Applications)
-*   `seong2023untrained`: **Untrained Deep Learning-Based Differential Phase-Contrast Microscopy** (Optics Letters)
-*   `US 12,541,819 B2`: Method for Designing Binary Phase Filter (Patent Granted)
+
+- `seong2023e2e`: **E2E-BPF Microscope** (Light: Science & Applications)
+- `seong2023untrained`: **Untrained Deep Learning-Based Differential Phase-Contrast Microscopy** (Optics Letters)
+- `US 12,541,819 B2`: Method for Designing Binary Phase Filter (Patent Granted)
 
 <br>
 
@@ -96,11 +99,12 @@ Beyond simulation, I am a builder. I have extensive hands-on experience construc
 I didn't just build standard systems; I upgraded them. I integrated **Binary Phase Filters (BPF)** into LSFM to image thicker biological samples (`ryu2020light`) and into OCT systems for inspecting transparent composite films (`US 11,846,587`). This ability to hybridize novel optical elements with established imaging systems allows me to create unique instruments tailored for specific scientific or industrial needs.
 
 **Relevant Publications & Patents:**
-*   `ryu2020light`: **LSFM Using Axis-Symmetric Binary Phase Filters** (Biomedical Optics Express)
-*   `US 11,846,587 B2`: Tomography Imaging System for Transparent Material Composite Thin Film (Patent Granted)
-*   `han2025dual`: Dual-Parameter Tomographic Imaging... in Tumor Spheroids (Theranostics)
-*   `yun2025oblique`: Oblique LSFM with Surface Tracking (IEEE TMI)
-*   `song2023polarization`: Polarization-Sensitive Intensity Diffraction Tomography (Light: Science & Applications)
+
+- `ryu2020light`: **LSFM Using Axis-Symmetric Binary Phase Filters** (Biomedical Optics Express)
+- `US 11,846,587 B2`: Tomography Imaging System for Transparent Material Composite Thin Film (Patent Granted)
+- `han2025dual`: Dual-Parameter Tomographic Imaging... in Tumor Spheroids (Theranostics)
+- `yun2025oblique`: Oblique LSFM with Surface Tracking (IEEE TMI)
+- `song2023polarization`: Polarization-Sensitive Intensity Diffraction Tomography (Light: Science & Applications)
 
 <br>
 
@@ -110,5 +114,6 @@ I didn't just build standard systems; I upgraded them. I integrated **Binary Pha
 I bridge the gap between optical engineering and mathematical optimization. I applied **Topology Optimization**—typically used in structural mechanics—to Fourier optics, creating non-intuitive phase filter designs that mathematically guarantee optimal depth extension. In industrial applications, I used **Particle Swarm Optimization (PSO)** to find the best phase mask configurations for 3D profilometry, directly solving trade-offs faced by manufacturing inspection systems.
 
 **Relevant Publications & Patents:**
-*   `roper2020topology`: **Topology Optimization Implementation for DoF Extension** (Structural and Multidisciplinary Optimization)
-*   `han2020direct`: Direct Replication of Micro FZP (Optics Express)
+
+- `roper2020topology`: **Topology Optimization Implementation for DoF Extension** (Structural and Multidisciplinary Optimization)
+- `han2020direct`: Direct Replication of Micro FZP (Optics Express)
