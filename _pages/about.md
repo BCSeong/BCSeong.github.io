@@ -14,7 +14,7 @@ profile:
     <p>Seoul, Republic of Korea</p>
     <p>+82-10-4999-2724</p>
     <p>bc.seong.opt@gmail.com</p>
-    <p><a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.linkedin.com/in/baekcheon-seong-574211257/" target="_blank" rel="noopener">LinkedIn</a></p>
+    <p><a href="https://scholar.google.com/citations?hl=ko&user=_WemxFoAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.linkedin.com/in/baekcheon-seong-574211257/" target="_blank" rel="noopener">LinkedIn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # no social/redirect icons at the bottom
