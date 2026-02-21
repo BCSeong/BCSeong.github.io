@@ -54,7 +54,7 @@ I successfully transferred the post-processing algorithms into the **Camera FPGA
 
 **Relevant Publications & Patents:**
 
-{% include project_citation_list.liquid keys="us20250207912" %}
+- {% reference us20250207912 %} [Link]({{ site.data.project_links.us20250207912 }})
 
 <br>
 
@@ -84,7 +84,9 @@ My signature work, the **E2E-BPF Microscope**, utilized an **end-to-end deep lea
 
 **Relevant Publications & Patents:**
 
-{% include project_citation_list.liquid keys="seong2023e2e, seong2023untrained, us12541819" %}
+- {% reference seong2023e2e %} [Link]({{ site.data.project_links.seong2023e2e }})
+- {% reference seong2023untrained %} [Link]({{ site.data.project_links.seong2023untrained }})
+- {% reference us12541819 %} [Link]({{ site.data.project_links.us12541819 }})
 
 <br>
 
@@ -98,7 +100,11 @@ I didn't just build standard systems; I upgraded them. I integrated **Binary Pha
 
 **Relevant Publications & Patents:**
 
-{% include project_citation_list.liquid keys="ryu2020light, us11846587, han2025dual, yun2025oblique, song2023polarization" %}
+- {% reference ryu2020light %} [Link]({{ site.data.project_links.ryu2020light }})
+- {% reference us11846587 %} [Link]({{ site.data.project_links.us11846587 }})
+- {% reference han2025dual %} [Link]({{ site.data.project_links.han2025dual }})
+- {% reference yun2025oblique %} [Link]({{ site.data.project_links.yun2025oblique }})
+- {% reference song2023polarization %} [Link]({{ site.data.project_links.song2023polarization }})
 
 <br>
 
@@ -109,4 +115,5 @@ I bridge the gap between optical engineering and mathematical optimization. I ap
 
 **Relevant Publications & Patents:**
 
-{% include project_citation_list.liquid keys="roper2020topology, han2020direct" %}
+- {% reference roper2020topology %} [Link]({{ site.data.project_links.roper2020topology }})
+- {% reference han2020direct %} [Link]({{ site.data.project_links.han2020direct }})
