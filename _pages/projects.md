@@ -86,6 +86,8 @@ My signature work, the **E2E-BPF Microscope**, utilized an **end-to-end deep lea
 
 - {% reference seong2023e2e %} [Link]({{ site.data.project_links.seong2023e2e }})
 - {% reference seong2023untrained %} [Link]({{ site.data.project_links.seong2023untrained }})
+- {% reference seong2023extended %} [Link]({{ site.data.project_links.seong2023extended }})
+- {% reference joo2025depth %} [Link]({{ site.data.project_links.joo2025depth }})
 - {% reference us12541819 %} [Link]({{ site.data.project_links.us12541819 }})
 
 <br>
@@ -105,6 +107,7 @@ I didn't just build standard systems; I upgraded them. I integrated **Binary Pha
 - {% reference han2025dual %} [Link]({{ site.data.project_links.han2025dual }})
 - {% reference yun2025oblique %} [Link]({{ site.data.project_links.yun2025oblique }})
 - {% reference song2023polarization %} [Link]({{ site.data.project_links.song2023polarization }})
+- {% reference joo2025computational %} [Link]({{ site.data.project_links.joo2025computational }})
 
 <br>
 
