@@ -3,10 +3,10 @@
   Usage: {% include project_citation_list.liquid keys="key1,key2,key3" %}
   Links come from _data/project_links.yml (key => url).
 {% endcomment %}
-{% assign key_list = include.keys | split: "," %}
+{% assign key_list = include.keys | split: ',' %}
 {% for key in key_list %}
   {% assign key = key | strip %}
   {% assign url = site.data.project_links[key] %}
-  - {% reference key %}{% if url %} [Link]({{ url }}){% endif %}
-
+  - {% reference key -%}
+  {%- if url %} [Link]({{ url }}){% endif %}
 {% endfor %}
