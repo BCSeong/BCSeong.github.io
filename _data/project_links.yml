@@ -1,0 +1,18 @@
+# Links for "Relevant Publications & Patents" on the Research page.
+# Keys must match entry keys in _bibliography/papers.bib.
+# Papers: DOI URL; Patents: Google Patents URL.
+
+# Patents
+us20250207912: https://patents.google.com/patent/US20250207912A1
+us12541819: https://patents.google.com/patent/US12541819B2
+us11846587: https://patents.google.com/patent/US11846587B2
+
+# Papers (DOI links)
+seong2023e2e: https://doi.org/10.1038/s41377-023-01300-5
+seong2023untrained: https://doi.org/10.1364/OL.493391
+ryu2020light: https://doi.org/10.1364/BOE.394841
+han2025dual: https://doi.org/10.7150/thno.118722
+yun2025oblique: https://doi.org/10.1109/TMI.2025.3605718
+song2023polarization: https://doi.org/10.1038/s41377-023-01151-0
+roper2020topology: https://doi.org/10.1007/s00158-020-02611-6
+han2020direct: https://doi.org/10.1364/OE.387213

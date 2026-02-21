@@ -54,7 +54,7 @@ I successfully transferred the post-processing algorithms into the **Camera FPGA
 
 **Relevant Publications & Patents:**
 
-- `US 20250207912 A1`: Apparatus for Three-Dimensional Shape Measurement (Patent Application)
+{% include project_citation_list.liquid keys="us20250207912" %}
 
 <br>
 
@@ -84,9 +84,7 @@ My signature work, the **E2E-BPF Microscope**, utilized an **end-to-end deep lea
 
 **Relevant Publications & Patents:**
 
-- `seong2023e2e`: **E2E-BPF Microscope** (Light: Science & Applications)
-- `seong2023untrained`: **Untrained Deep Learning-Based Differential Phase-Contrast Microscopy** (Optics Letters)
-- `US 12,541,819 B2`: Method for Designing Binary Phase Filter (Patent Granted)
+{% include project_citation_list.liquid keys="seong2023e2e, seong2023untrained, us12541819" %}
 
 <br>
 
@@ -100,11 +98,7 @@ I didn't just build standard systems; I upgraded them. I integrated **Binary Pha
 
 **Relevant Publications & Patents:**
 
-- `ryu2020light`: **LSFM Using Axis-Symmetric Binary Phase Filters** (Biomedical Optics Express)
-- `US 11,846,587 B2`: Tomography Imaging System for Transparent Material Composite Thin Film (Patent Granted)
-- `han2025dual`: Dual-Parameter Tomographic Imaging... in Tumor Spheroids (Theranostics)
-- `yun2025oblique`: Oblique LSFM with Surface Tracking (IEEE TMI)
-- `song2023polarization`: Polarization-Sensitive Intensity Diffraction Tomography (Light: Science & Applications)
+{% include project_citation_list.liquid keys="ryu2020light, us11846587, han2025dual, yun2025oblique, song2023polarization" %}
 
 <br>
 
@@ -115,5 +109,4 @@ I bridge the gap between optical engineering and mathematical optimization. I ap
 
 **Relevant Publications & Patents:**
 
-- `roper2020topology`: **Topology Optimization Implementation for DoF Extension** (Structural and Multidisciplinary Optimization)
-- `han2020direct`: Direct Replication of Micro FZP (Optics Express)
+{% include project_citation_list.liquid keys="roper2020topology, han2020direct" %}
