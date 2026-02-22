@@ -13,7 +13,7 @@ nav_order: 2
 
 I am an Optical Engineer specializing in **Computational Imaging (MVS, Holography, DL)** and **Advanced System Integration**. I earned my Ph.D. at the **Computational Imaging & Instrumentation Laboratory**, where I specialized in **Physics-Informed Deep Learning** and **End-to-End Optimization**. With **over 3 years of industry R&D experience** as a Lead Researcher at Koh Young Technology, I possess a unique background that bridges the gap between theoretical research and industrial products.
 
-While my academic roots lie in cutting-edge **AI-driven optics**, my industrial strength is **pragmatic execution**. I leverage my deep theoretical background not just to invent new algorithms, but to provide superior **troubleshooting** and **system simulation** for robust industrial products. I excel at translating complex optical concepts into functioning prototypes, bridging the gap between "scientific possibility" and "manufacturing reality."
+While my academic roots lie in **Computational Optics** and **Physics-Informed Deep Learning**, my industrial strength is **Advanced Instrumentation** and **Pragmatic Execution**. I leverage my deep theoretical background not just to invent new algorithms, but to provide superior **troubleshooting** and **system simulation** for robust industrial products. I excel at translating complex optical concepts into functioning prototypes, bridging the gap between "scientific possibility" and "manufacturing reality."
 
 ---
 
