@@ -92,9 +92,9 @@
           }
         }
 
-        > em {
-          border-bottom: 1px solid;
-          font-style: normal;
+        > strong.author-self {
+          font-weight: bold;
+          text-decoration: underline;
         }
 
         > span.more-authors {
