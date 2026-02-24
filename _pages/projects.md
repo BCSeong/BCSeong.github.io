@@ -7,13 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Professional Summary -->
+<!-- Professional Summary (source: research_master.md [Website Version - English]) -->
 
-### Bridging Advanced Computational Optics and Industrial Reality
+### Bridging Academic Rigor and Production-Ready Inspection
 
-I am an Optical Engineer specializing in **Computational Imaging (MVS, Holography, DL)** and **Advanced System Integration**. I earned my Ph.D. at the **Computational Imaging & Instrumentation Laboratory**, where I specialized in **Physics-Informed Deep Learning** and **End-to-End Optimization**. With **over 3 years of industry R&D experience** as a Lead Researcher at Koh Young Technology, I possess a unique background that bridges the gap between theoretical research and industrial products.
+I am an Optical Engineer with a Ph.D. from the **Computational Imaging & Instrumentation Laboratory** and **over 3 years of industry R&D** at **Koh Young Technology** (global leader in 3D measurement & inspection, SPI/AOI). My **industrial strength** comes from what I have actually built and led: **simulation-driven concept validation** (Blender, Python) and **inverse design with joint optimization** (Zemax–MATLAB API) for inspection systems — **delivering:** **Active multi-view stereo** and photometric fusion for specular 3D (lead); **extended depth-of-field for wire bonding inspection** (lead); and **multi-wavelength fluorescence imaging for 2 µm pitch RDL with PID** (lead) on 300mm wafers; optimized **digital holography** algorithms for BGA micro-bump inspection. I serve as **technical anchor** for cross-functional teams, own **calibration** and **field support**, and drive products from concept to mass production.
 
-While my academic roots lie in **Computational Optics** and **Physics-Informed Deep Learning**, my industrial strength is **Advanced Instrumentation** and **Pragmatic Execution**. I leverage my deep theoretical background not just to invent new algorithms, but to provide superior **troubleshooting** and **system simulation** for robust industrial products. I excel at translating complex optical concepts into functioning prototypes, bridging the gap between "scientific possibility" and "manufacturing reality."
+Understanding of **AOI/SPI** including **back-end semiconductor** inspection. I am not "optics-only"; I keep process and manufacturability in mind when working on optical solutions. My academic backbone (Physics-Informed Deep Learning, End-to-End Optimization) supports this execution.
 
 ---
 
