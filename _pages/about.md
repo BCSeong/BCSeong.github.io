@@ -28,11 +28,11 @@ latest_posts:
   enabled: false
 ---
 
-[Download CV](/assets/pdf/CV.pdf){:target="\_blank" rel="noopener"}
+[Download CV](/assets/pdf/cv_opt_BaekCheonSeong.pdf){:target="\_blank" rel="noopener"}
 
 I am a **Lead Researcher** at [Koh Young Technology](https://kohyoung.com/en/) (Yongin, Republic of Korea) and an Optical Engineer specializing in **Computational Imaging** and **Advanced System Integration**. My core expertise lies in **bridging the gap between advanced optical theory and robust industrial systems**, aiming to solve complex visibility problems through the fusion of **optical system design** and **computational algorithms**.
 
-At Koh Young, I serve as a **Technical Anchor** for novel inspection product lines. I lead the R&D of **computational inspection systems**, utilizing **Active Multi-view Stereo** with **Photometric Fusion** and **Depth-of-field extension** for specular 3D and wire-bonding inspection (lead), **multi-wavelength fluorescence imaging** for **2 µm pitch RDL with PID** on 300mm wafers (lead), and optimized **digital holography** algorithms for **BGA micro-bump** metrology — all in **AOI/SPI** and back-end semiconductor inspection. My industrial strength is **pragmatic execution**: I focus on rapid prototyping, system-level troubleshooting, and translating theoretical concepts into mass-producible solutions that work in the real world.
+At Koh Young, I serve as a **Technical Anchor** for the company’s new inspection product lines. I lead the R&D of **computational inspection systems**, utilizing **Active Multi-view Stereo** with **Photometric Fusion** and **Depth-of-field extension** for specular 3D and wire-bonding inspection (lead), **multi-wavelength fluorescence imaging** for **2 µm pitch RDL with PID** on 300mm wafers (lead), and optimized **digital holography** algorithms for **BGA micro-bump** metrology — all in **AOI/SPI** and back-end semiconductor inspection. My industrial strength is **pragmatic execution**: I focus on rapid prototyping, system-level troubleshooting, and translating theoretical concepts into mass-producible solutions that work in the real world.
 
 My practical work is grounded in a deep theoretical foundation. I earned my Ph.D. from the [Computational Imaging & Instrumentation Laboratory (CII)](https://cii-yonsei.com) at Yonsei University (2023), advised by Prof. Chulmin Joo. During my academic career, I specialized in **Physics-Informed Deep Learning** and **End-to-End Optimization**, pioneering methods to break physical limits such as depth-of-field using differentiable optical design.
 
