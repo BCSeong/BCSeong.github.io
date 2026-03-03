@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-02'
 papers:
   _WemxFoAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Depth-enhanced computational microscopy via co-learned binary phase filter and image deconvolution
     year: '2025'
   _WemxFoAAAAJ:W7OEmFMy1HYC:
-    citations: 46
+    citations: 47
     title: Polarization-sensitive intensity diffraction tomography
     year: '2023'
   _WemxFoAAAAJ:WF5omc3nYNoC:
@@ -66,6 +66,6 @@ papers:
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2024'
   _WemxFoAAAAJ:zYLM7Y9cAGgC:
-    citations: 12
+    citations: 14
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2023'
