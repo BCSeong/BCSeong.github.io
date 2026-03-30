@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-30'
 papers:
   _WemxFoAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: A topology optimization implementation for depth-of-focus extension of binary phase filters
     year: '2020'
   _WemxFoAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Depth-enhanced computational microscopy via co-learned binary phase filter and image deconvolution
     year: '2025'
   _WemxFoAAAAJ:W7OEmFMy1HYC:
@@ -54,7 +54,7 @@ papers:
     title: Apparatus for three-dimensional shape measurement
     year: '2025'
   _WemxFoAAAAJ:qjMakFHDy7sC:
-    citations: 46
+    citations: 47
     title: 'E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution'
     year: '2023'
   _WemxFoAAAAJ:roLk4NBRz8UC:
@@ -66,6 +66,6 @@ papers:
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2024'
   _WemxFoAAAAJ:zYLM7Y9cAGgC:
-    citations: 14
+    citations: 15
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2023'
