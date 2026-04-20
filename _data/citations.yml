@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-20'
 papers:
   _WemxFoAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Oblique Light Sheet Fluorescence Microscopy with Surface Tracking for High-speed Large-area Imaging of Conjunctival Goblet Cells
     year: '2025'
   _WemxFoAAAAJ:5nxA0vEk-isC:
-    citations: 0
+    citations: 1
     title: Dual-parameter tomographic imaging of attenuation and backscattering coefficients for quantitative evaluation of immune cell-mediated cytotoxicity in tumor spheroids
     year: '2025'
   _WemxFoAAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: Depth-enhanced computational microscopy via co-learned binary phase filter and image deconvolution
     year: '2025'
   _WemxFoAAAAJ:W7OEmFMy1HYC:
-    citations: 48
+    citations: 51
     title: Polarization-sensitive intensity diffraction tomography
     year: '2023'
   _WemxFoAAAAJ:WF5omc3nYNoC:
@@ -54,7 +54,7 @@ papers:
     title: Apparatus for three-dimensional shape measurement
     year: '2025'
   _WemxFoAAAAJ:qjMakFHDy7sC:
-    citations: 47
+    citations: 48
     title: 'E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution'
     year: '2023'
   _WemxFoAAAAJ:roLk4NBRz8UC:
@@ -66,6 +66,6 @@ papers:
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2024'
   _WemxFoAAAAJ:zYLM7Y9cAGgC:
-    citations: 15
+    citations: 16
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2023'
