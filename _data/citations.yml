@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-22'
 papers:
   _WemxFoAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Three-dimensional attenuation coefficient analysis for the quantitative evaluation of CAR T cell cytotoxicity in tumor spheroids
     year: '2025'
   _WemxFoAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: Direct replication of a glass micro Fresnel zone plate array by laser irradiation using an infrared transmissive mold
     year: '2020'
   _WemxFoAAAAJ:UeHWp8X0CEIC:
@@ -34,7 +34,7 @@ papers:
     title: Depth-enhanced computational microscopy via co-learned binary phase filter and image deconvolution
     year: '2025'
   _WemxFoAAAAJ:W7OEmFMy1HYC:
-    citations: 54
+    citations: 57
     title: Polarization-sensitive intensity diffraction tomography
     year: '2023'
   _WemxFoAAAAJ:WF5omc3nYNoC:
@@ -54,7 +54,7 @@ papers:
     title: Apparatus for three-dimensional shape measurement
     year: '2025'
   _WemxFoAAAAJ:qjMakFHDy7sC:
-    citations: 48
+    citations: 49
     title: 'E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution'
     year: '2023'
   _WemxFoAAAAJ:roLk4NBRz8UC:
