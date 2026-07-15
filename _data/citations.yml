@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-15'
 papers:
   _WemxFoAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Depth-enhanced computational microscopy via co-learned binary phase filter and image deconvolution
     year: '2025'
   _WemxFoAAAAJ:W7OEmFMy1HYC:
-    citations: 60
+    citations: 61
     title: Polarization-sensitive intensity diffraction tomography
     year: '2023'
   _WemxFoAAAAJ:WF5omc3nYNoC:
@@ -54,7 +54,7 @@ papers:
     title: Apparatus for three-dimensional shape measurement
     year: '2025'
   _WemxFoAAAAJ:qjMakFHDy7sC:
-    citations: 51
+    citations: 52
     title: 'E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution'
     year: '2023'
   _WemxFoAAAAJ:roLk4NBRz8UC:
