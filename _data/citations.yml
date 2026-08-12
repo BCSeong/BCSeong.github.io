@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-12'
 papers:
   _WemxFoAAAAJ:0EnyYjriUFMC:
     citations: 0
-    title: Oblique Light Sheet Fluorescence Microscopy with Surface Tracking for High-speed Large-area Imaging of Conjunctival Goblet Cells
+    title: Oblique Light Sheet Fluorescence Microscopy With Surface Tracking for High-Speed Large-Area Imaging of Conjunctival Goblet Cells
     year: '2025'
   _WemxFoAAAAJ:5nxA0vEk-isC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: Direct replication of a glass micro Fresnel zone plate array by laser irradiation using an infrared transmissive mold
     year: '2020'
   _WemxFoAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 14
     title: A topology optimization implementation for depth-of-focus extension of binary phase filters
     year: '2020'
   _WemxFoAAAAJ:UebtZRa9Y70C:
@@ -34,7 +34,7 @@ papers:
     title: Depth-enhanced computational microscopy via co-learned binary phase filter and image deconvolution
     year: '2025'
   _WemxFoAAAAJ:W7OEmFMy1HYC:
-    citations: 63
+    citations: 65
     title: Polarization-sensitive intensity diffraction tomography
     year: '2023'
   _WemxFoAAAAJ:WF5omc3nYNoC:
@@ -54,18 +54,14 @@ papers:
     title: Apparatus for three-dimensional shape measurement
     year: '2025'
   _WemxFoAAAAJ:qjMakFHDy7sC:
-    citations: 53
+    citations: 54
     title: 'E2E-BPF microscope: extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution'
     year: '2023'
   _WemxFoAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: Computational polarization microscopy for multidimensional and multicontrast imaging
     year: '2025'
-  _WemxFoAAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: Untrained deep learning-based differential phase-contrast microscopy
-    year: '2024'
   _WemxFoAAAAJ:zYLM7Y9cAGgC:
-    citations: 17
+    citations: 16
     title: Untrained deep learning-based differential phase-contrast microscopy
     year: '2023'
