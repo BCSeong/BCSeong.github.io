@@ -21,13 +21,13 @@ Understanding of **AOI/SPI** including **back-end semiconductor** inspection. I 
 
 > **Core Competency:** "Rapid Prototyping, Troubleshooting, and Technical Ownership."
 
-### 1. Computational Inline Inspection System (AOI-AXIA): Multi-view Stereo & Photometry Fusion
+### 1. On-the-fly Multi-View Photometric Stereo for Automated Optical Inspection (AOI)
 
 **Accelerating Development via Rapid Prototyping**
 I initiated this project as a solo proof-of-concept using Blender simulations. Recognizing its potential, the company adopted it as a major next-generation product. My role was to pave the way: I built the physical prototype alone using off-the-shelf components and developed the initial operation software in Python.
 
 **Core Algorithm Development**
-Beyond system integration, I led the development of critical computer vision algorithms. I implemented **Active Multi-view Stereo (MVS)** to generate high-precision depth maps in an active structured-light configuration, and pioneered a **Gradient Fusion** technique to successfully reconstruct **specular surfaces**, solving a major inspection challenge for reflective materials.
+Beyond system integration, I led the development of critical computer vision algorithms. I implemented **on-the-fly Multi-View Photometric Stereo (MVPS)** to generate high-precision depth maps in an active structured-light configuration, and pioneered a **Photometric Gradient Fusion** technique to successfully reconstruct **specular surfaces**, solving a major inspection challenge for reflective materials.
 
 **The Technical Anchor**
 While the Vision group developed the final C++ product code, I provided the "reference standard." I shared my Python reconstruction pipelines and datasets, allowing them to develop software in parallel with my hardware setup. I defined the critical hardware specifications and calibration logic, serving as the technical "go-to" person for the entire inter-departmental team. My deep understanding of the system's "A to Z" significantly shortened the overall development cycle.
@@ -44,20 +44,20 @@ My value shone in troubleshooting. I identified and fixed subtle optical issues 
 
 <br>
 
-### 3. Extended Depth-of-Field for Micro-Bump Inspection (Fringe Projection)
+### 3. Extended Depth-of-Field for Wire-Bonding Inspection (Fringe Projection)
 
 **Bridging Theory and Industry: Real-Time DoF Extension**
-Leveraging my academic background in **Pupil Engineering**, I led a project to overcome the trade-off between depth-of-field and resolution in telecentric imaging system for Optical Character Recognition (OCR) of PCB device and Fringe Projection Profilometry. I applied a **Computational Inverse Design** approach, utilizing Particle Swarm Optimization (PSO) to jointly optimize the pupil filter and coressponding post-processing.
+Leveraging my academic background in **Pupil Engineering**, I led a project to overcome the trade-off between depth-of-field and resolution in telecentric imaging systems. The solution was applied to two inspection paths: **Optical Character Recognition (OCR) of AOI devices** and **Fringe Projection Profilometry for wire-bonding inspection**. I applied a **Computational Inverse Design** approach, utilizing Particle Swarm Optimization (PSO) to jointly optimize the pupil filter and the corresponding post-processing.
 
 **FPGA Implementation & Innovation**
 To ensure the solution was practical for mass production, I successfully transferred the **jointly-optimized post-processing** into the **Camera FPGA**, enabling real-time Depth-of-Field extension with zero additional computational load on the host PC. I also devised a new way to fabricate phase plates, successfully reducing **artifacts inherent to phase filters that appear near metallic specular reflections**—a critical hurdle in industrial inspection.
 
 <br>
 
-### 4. High-Speed Large-Area Topology Measurement Prototype (VSI/WLI)
+### 4. High-Speed Topology Measurement for Micro-bump Inspection (VSI/WLI, Proof-of-Concept)
 
-**Rapid Prototyping for Speed**
-Targeting high-speed large-area **micron-scale** topology measurement, I developed a specialized VSI/WLI prototype. I identified that for our specific needs (topology over roughness), a specific light source bandwidth could drastically reduce scanning time. I built the system independently using standard optical components, proving the concept's speed and accuracy through rigorous hands-on testing.
+**Rapid Prototyping for Speed (Proof-of-Concept)**
+Targeting high-speed **micron-scale topology measurement for micro-bump inspection**, I developed a specialized VSI/WLI prototype as a **proof-of-concept study**. I identified that for our specific needs (topology over roughness), a specific light source bandwidth could drastically reduce scanning time. I built the system independently using standard optical components, proving the concept's speed and accuracy through rigorous hands-on testing. The project concluded at the prototype validation stage.
 
 <br>
 
